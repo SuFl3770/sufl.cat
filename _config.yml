@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://sufl.cat"
 
 github:
-  username:  # change to your github username
+  username: SuFl3770 # change to your github username
 
 twitter:
   username:  # change to your twitter username
@@ -38,8 +38,7 @@ social:
   email: connect@sufl.cat # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://hoto.moe/@SuFl # change to your twitter homepage
-    - https://twitter.com/SuFl3770 # change to your github homepage
+    - https://sufl.cat/about/
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username

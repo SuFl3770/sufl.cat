@@ -514,6 +514,7 @@ main {
   position: relative;
   background: var(--img-bg);
 
+  /*
   &::before {
     content: '';
     position: absolute;
@@ -523,6 +524,7 @@ main {
     -webkit-animation: shimmer 1.3s infinite;
     animation: shimmer 1.3s infinite;
   }
+  */
 
   @-webkit-keyframes shimmer {
     0% {

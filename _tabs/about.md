@@ -14,7 +14,4 @@ order: 4
 [Jekyll](https://jekyllrb.com/) - [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ver 6.3.1
 
 
-
-<img src="/assets/img/sufl/XD.png" width="50" height="50"/>
-
 Peace.
